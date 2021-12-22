@@ -1,0 +1,4 @@
+main: mooni.Jukebox.Dupe
+name: JukeboxDupe
+version: 1.0
+author: mooni
